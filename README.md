@@ -1,5 +1,5 @@
 # ☕ Java Estudos
-Repositório dedicado ao estudo aprofundado da linguagem **Java** e dos fundamentos de **Programação Orientada a Objetos (POO)**. Este projeto serve como um guia de referência pessoal, contendo traduções da documentação oficial, resumos teóricos e exercícios práticos.
+Repositório dedicado ao estudo  da linguagem **Java** e dos fundamentos de **Programação Orientada a Objetos (POO)**. Este projeto serve como um guia de referência pessoal, contendo traduções da documentação oficial, resumos teóricos e exercícios práticos.
 
 ---
 
